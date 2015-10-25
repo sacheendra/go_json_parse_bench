@@ -1,0 +1,1 @@
+To run the benchmark. Run "go test -bench=." in the console. It takes around ~200ms to decode a single 5MB json document. Nothing is running in parallel. 
